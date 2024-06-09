@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reset Password :"
+        android:textSize="30dp"
+        android:gravity="center"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/forget"
+        android:layout_marginTop="15dp"
+
+        />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="~~ please enter your email ~~"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        />
+
+    <EditText
+        android:id="@+id/emailtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="email:"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+
+        />
+
+    <Button
+        android:id="@+id/buttonrest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Enter "
+        android:gravity="center"
+
+
+        />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Back"
+        android:layout_marginLeft="150dp"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="26dp"
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="210dp"
+            android:background="#CDCDCD"
+            android:padding="16dp">
+
+
+            <TextView
+                android:id="@+id/carNameTextView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Audi A3 Cabriolet 2017"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/carDetailsTextView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Sunroof, air conditioning system and complete extras"
+                android:textColor="#000"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/carNameTextView" />
+
+
+            <ImageView
+                android:id="@+id/carImageView"
+                android:layout_width="270dp"
+                android:layout_height="122dp"
+                android:layout_marginTop="10dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/carDetailsTextView"
+                />
+
+            <ImageView
+                android:id="@+id/passengerIconImageView"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginEnd="4dp"
+                android:src="@drawable/seat"
+                app:layout_constraintBottom_toBottomOf="@id/carImageView"
+                app:layout_constraintEnd_toStartOf="@+id/seatsTextView"
+                app:layout_constraintTop_toTopOf="@id/carImageView"
+                app:layout_constraintVertical_bias="0.265" />
+
+            <TextView
+                android:id="@+id/seatsTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:text="4"
+                android:textColor="#000"
+                android:textSize="14sp"
+                app:layout_constraintBottom_toBottomOf="@id/carImageView"
+                app:layout_constraintStart_toEndOf="@id/passengerIconImageView"
+                app:layout_constraintTop_toTopOf="@id/carImageView"
+                app:layout_constraintVertical_bias="0.3" />
+
+            <TextView
+                android:id="@+id/carPriceTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$48"
+                android:textColor="@android:color/holo_red_dark"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/passengerIconImageView"
+                app:layout_constraintVertical_bias="1.0" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

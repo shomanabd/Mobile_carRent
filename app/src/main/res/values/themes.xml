@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Mobile_carRent" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="RedButton">
+        <item name="android:backgroundTint">#FF0000</item> <!-- Red background -->
+        <item name="android:textColor">#FFFFFF</item> <!-- White text color -->
+    </style>
+
+    <style name="Theme.Mobile_carRent" parent="Base.Theme.Mobile_carRent" />
+</resources>

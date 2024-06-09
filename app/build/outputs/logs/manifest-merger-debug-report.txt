@@ -1,0 +1,589 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fedc73eb5e8d8d4f1a74512249f62fed\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\31a12e2ad330287db9e93700fc8f5491\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\3b1cb699c8ada3b27b2d8387ee9459b3\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c0dc3c161fd2c9a2792d71e1e22ed0f2\transformed\glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1b799d809d7a58345a560e0dfe603b64\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\4fc1e0d2bd8d788b280e58841b39553f\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\ee4cd7e9bd73809c30b1d0510062fe57\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\649cb30d843a7c62bb1a44c39d3a91a7\transformed\recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a459f727bfc69f588e046cbbcf12636d\transformed\integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\9f1a1d7c1acc51a61b7efefa20af5bd3\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d6f7e0d67ee1c7f3e0089787bf8bcc7c\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0950add8bc0ababbfc2033d9e3992cf1\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c235946c55dcf0cfb1fabf39a4c662bc\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\7ce26f628dbdd511a6a3c99778d416aa\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bbc10ad60265746d12ebb1d6ba1873d\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\8b904099e163e4db5ce4ac26c0a4e406\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\7628a69d211301b271852301558671f5\transformed\appcompat-resources-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a399285f1349cb952a2808ba487a5991\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c7171d6a1624c27269fb3742ebda9ed2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2804fa5969591950006520702cd15f7e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\72858f7b703d491d59f82940e9eb8768\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d641fc98f69dd604873291cfb8572f0a\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c7aa7ec30e716e4cf5ca982a45299a6b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\df1f1592cdaa011bff3eca7fab0a887b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6fb23bbfa712bab9a5d5d2f0cc67c776\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\087f6403eeeba23df8d5ae736cd1431e\transformed\core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2278964f4aa5d49d5f60cf7752f017f7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a3b25965f84201b8d3865cced6ddac0b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\7175e4ed09a586476041725a70049cc9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6f2da2642c28c6e1feae064ba7e4dbb8\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f49618a822bc041f9fe007939631fe42\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\8572ed537da6a4d2699697ae12a749ce\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0c9f64df5eebb55569494c7debe06f14\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0b5c7facd21ccadc870d6a1585d82254\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\505f850f417849f557a2ccbbf4badd48\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f0dd6216aae6b79fbc47b556d7c0450f\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fdf3931c89dfd9520e2215e933a5ebf1\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0cd3dff9f66042986a4c15df7e2a370c\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2cee27e2ad84f5d9165ad2d9b10eba70\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f1f43728f08615a84cc718fd2ccee461\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\8f0c84a3b47d5efa2e23add906ca5cf7\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\9a43ae707d6b5ab36f0585279cc16fab\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\b5279e5b972da1cf1f2da9ab06e16040\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bfc2377e777624a333a42a84e9abbb4f\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\86324f2e63c5998e6764b3edf4ed037e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bb963a6aa6e95a221770540b7421991\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\216fefaddc2ae21fd3944036a66612f9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6f33f6a923089193edcd906db3c6ca28\transformed\gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\b0c721687978603fe759c6a8dfb67bc5\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\91e113b9a70ce67e06d8847cac67e9ca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\87cc54a2b023542d2b1b36493593c2c7\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\04163543d7920c20a53765de5b6635c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d61be0d31953aa53512c909a56e7d317\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\dded95b0553354596b80761de957e0d5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\49a17ea66fbef82747caa2632fea23dc\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\b1843aa90ae71498715a77420d1bcf73\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fbdac59a8a124c37a56c09cd34e7a23c\transformed\googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5686b08932cdaff772ee54f089e6ce25\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\649cb30d843a7c62bb1a44c39d3a91a7\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\649cb30d843a7c62bb1a44c39d3a91a7\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\649cb30d843a7c62bb1a44c39d3a91a7\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\649cb30d843a7c62bb1a44c39d3a91a7\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:7:5-49:19
+INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:7:5-49:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fedc73eb5e8d8d4f1a74512249f62fed\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fedc73eb5e8d8d4f1a74512249f62fed\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\31a12e2ad330287db9e93700fc8f5491\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\31a12e2ad330287db9e93700fc8f5491\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c0dc3c161fd2c9a2792d71e1e22ed0f2\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c0dc3c161fd2c9a2792d71e1e22ed0f2\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a459f727bfc69f588e046cbbcf12636d\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a459f727bfc69f588e046cbbcf12636d\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\9f1a1d7c1acc51a61b7efefa20af5bd3\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\9f1a1d7c1acc51a61b7efefa20af5bd3\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d6f7e0d67ee1c7f3e0089787bf8bcc7c\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d6f7e0d67ee1c7f3e0089787bf8bcc7c\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0950add8bc0ababbfc2033d9e3992cf1\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0950add8bc0ababbfc2033d9e3992cf1\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c235946c55dcf0cfb1fabf39a4c662bc\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c235946c55dcf0cfb1fabf39a4c662bc\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bbc10ad60265746d12ebb1d6ba1873d\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bbc10ad60265746d12ebb1d6ba1873d\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f49618a822bc041f9fe007939631fe42\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f49618a822bc041f9fe007939631fe42\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0b5c7facd21ccadc870d6a1585d82254\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0b5c7facd21ccadc870d6a1585d82254\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2cee27e2ad84f5d9165ad2d9b10eba70\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2cee27e2ad84f5d9165ad2d9b10eba70\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f1f43728f08615a84cc718fd2ccee461\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f1f43728f08615a84cc718fd2ccee461\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\86324f2e63c5998e6764b3edf4ed037e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\86324f2e63c5998e6764b3edf4ed037e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6f33f6a923089193edcd906db3c6ca28\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6f33f6a923089193edcd906db3c6ca28\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\04163543d7920c20a53765de5b6635c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\04163543d7920c20a53765de5b6635c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f49618a822bc041f9fe007939631fe42\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:19:9-29
+	android:icon
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:17:9-52
+	android:enableOnBackInvokedCallback
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:18:9-51
+	android:dataExtractionRules
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:11:9-65
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:9:9-44
+activity#com.example.mobile_carrent.ForgetPass
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:21:13-39
+activity#com.example.mobile_carrent.loggin
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:24:13-35
+activity#com.example.mobile_carrent.ResetEmail
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:28:13-39
+activity#com.example.mobile_carrent.ConfirmReservation
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:30:9-32:38
+	android:exported
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:31:13-47
+activity#com.example.mobile_carrent.singUp
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:34:13-35
+activity#com.example.mobile_carrent.RecyclerView
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:36:9-38:38
+	android:exported
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:38:11-35
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:37:12-40
+activity#com.example.mobile_carrent.MainActivity
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:39:9-47:20
+	android:exported
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:40:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml:45:27-74
+uses-sdk
+INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fedc73eb5e8d8d4f1a74512249f62fed\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fedc73eb5e8d8d4f1a74512249f62fed\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\31a12e2ad330287db9e93700fc8f5491\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\31a12e2ad330287db9e93700fc8f5491\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\3b1cb699c8ada3b27b2d8387ee9459b3\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\3b1cb699c8ada3b27b2d8387ee9459b3\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c0dc3c161fd2c9a2792d71e1e22ed0f2\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c0dc3c161fd2c9a2792d71e1e22ed0f2\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1b799d809d7a58345a560e0dfe603b64\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1b799d809d7a58345a560e0dfe603b64\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\4fc1e0d2bd8d788b280e58841b39553f\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\4fc1e0d2bd8d788b280e58841b39553f\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\ee4cd7e9bd73809c30b1d0510062fe57\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\ee4cd7e9bd73809c30b1d0510062fe57\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\649cb30d843a7c62bb1a44c39d3a91a7\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\649cb30d843a7c62bb1a44c39d3a91a7\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a459f727bfc69f588e046cbbcf12636d\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a459f727bfc69f588e046cbbcf12636d\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\9f1a1d7c1acc51a61b7efefa20af5bd3\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\9f1a1d7c1acc51a61b7efefa20af5bd3\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d6f7e0d67ee1c7f3e0089787bf8bcc7c\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d6f7e0d67ee1c7f3e0089787bf8bcc7c\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0950add8bc0ababbfc2033d9e3992cf1\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0950add8bc0ababbfc2033d9e3992cf1\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c235946c55dcf0cfb1fabf39a4c662bc\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c235946c55dcf0cfb1fabf39a4c662bc\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\7ce26f628dbdd511a6a3c99778d416aa\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\7ce26f628dbdd511a6a3c99778d416aa\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bbc10ad60265746d12ebb1d6ba1873d\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bbc10ad60265746d12ebb1d6ba1873d\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\8b904099e163e4db5ce4ac26c0a4e406\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\8b904099e163e4db5ce4ac26c0a4e406\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\7628a69d211301b271852301558671f5\transformed\appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\7628a69d211301b271852301558671f5\transformed\appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a399285f1349cb952a2808ba487a5991\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a399285f1349cb952a2808ba487a5991\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c7171d6a1624c27269fb3742ebda9ed2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c7171d6a1624c27269fb3742ebda9ed2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2804fa5969591950006520702cd15f7e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2804fa5969591950006520702cd15f7e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\72858f7b703d491d59f82940e9eb8768\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\72858f7b703d491d59f82940e9eb8768\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d641fc98f69dd604873291cfb8572f0a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d641fc98f69dd604873291cfb8572f0a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c7aa7ec30e716e4cf5ca982a45299a6b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\c7aa7ec30e716e4cf5ca982a45299a6b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\df1f1592cdaa011bff3eca7fab0a887b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\df1f1592cdaa011bff3eca7fab0a887b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6fb23bbfa712bab9a5d5d2f0cc67c776\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6fb23bbfa712bab9a5d5d2f0cc67c776\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\087f6403eeeba23df8d5ae736cd1431e\transformed\core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\087f6403eeeba23df8d5ae736cd1431e\transformed\core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2278964f4aa5d49d5f60cf7752f017f7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2278964f4aa5d49d5f60cf7752f017f7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a3b25965f84201b8d3865cced6ddac0b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\a3b25965f84201b8d3865cced6ddac0b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\7175e4ed09a586476041725a70049cc9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\7175e4ed09a586476041725a70049cc9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6f2da2642c28c6e1feae064ba7e4dbb8\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6f2da2642c28c6e1feae064ba7e4dbb8\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f49618a822bc041f9fe007939631fe42\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f49618a822bc041f9fe007939631fe42\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\8572ed537da6a4d2699697ae12a749ce\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\8572ed537da6a4d2699697ae12a749ce\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0c9f64df5eebb55569494c7debe06f14\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0c9f64df5eebb55569494c7debe06f14\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0b5c7facd21ccadc870d6a1585d82254\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0b5c7facd21ccadc870d6a1585d82254\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\505f850f417849f557a2ccbbf4badd48\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\505f850f417849f557a2ccbbf4badd48\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f0dd6216aae6b79fbc47b556d7c0450f\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f0dd6216aae6b79fbc47b556d7c0450f\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fdf3931c89dfd9520e2215e933a5ebf1\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fdf3931c89dfd9520e2215e933a5ebf1\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0cd3dff9f66042986a4c15df7e2a370c\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0cd3dff9f66042986a4c15df7e2a370c\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2cee27e2ad84f5d9165ad2d9b10eba70\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2cee27e2ad84f5d9165ad2d9b10eba70\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f1f43728f08615a84cc718fd2ccee461\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f1f43728f08615a84cc718fd2ccee461\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\8f0c84a3b47d5efa2e23add906ca5cf7\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\8f0c84a3b47d5efa2e23add906ca5cf7\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\9a43ae707d6b5ab36f0585279cc16fab\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\9a43ae707d6b5ab36f0585279cc16fab\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\b5279e5b972da1cf1f2da9ab06e16040\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\b5279e5b972da1cf1f2da9ab06e16040\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bfc2377e777624a333a42a84e9abbb4f\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bfc2377e777624a333a42a84e9abbb4f\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\86324f2e63c5998e6764b3edf4ed037e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\86324f2e63c5998e6764b3edf4ed037e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bb963a6aa6e95a221770540b7421991\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bb963a6aa6e95a221770540b7421991\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\216fefaddc2ae21fd3944036a66612f9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\216fefaddc2ae21fd3944036a66612f9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6f33f6a923089193edcd906db3c6ca28\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\6f33f6a923089193edcd906db3c6ca28\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\b0c721687978603fe759c6a8dfb67bc5\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\b0c721687978603fe759c6a8dfb67bc5\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\91e113b9a70ce67e06d8847cac67e9ca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\91e113b9a70ce67e06d8847cac67e9ca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\87cc54a2b023542d2b1b36493593c2c7\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\87cc54a2b023542d2b1b36493593c2c7\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\04163543d7920c20a53765de5b6635c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\04163543d7920c20a53765de5b6635c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d61be0d31953aa53512c909a56e7d317\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\d61be0d31953aa53512c909a56e7d317\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\dded95b0553354596b80761de957e0d5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\dded95b0553354596b80761de957e0d5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\49a17ea66fbef82747caa2632fea23dc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\49a17ea66fbef82747caa2632fea23dc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\b1843aa90ae71498715a77420d1bcf73\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\b1843aa90ae71498715a77420d1bcf73\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fbdac59a8a124c37a56c09cd34e7a23c\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\fbdac59a8a124c37a56c09cd34e7a23c\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5686b08932cdaff772ee54f089e6ce25\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5686b08932cdaff772ee54f089e6ce25\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Msi Stealth 15M\Desktop\COMP4310\Mobile_carRent-main\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0950add8bc0ababbfc2033d9e3992cf1\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0950add8bc0ababbfc2033d9e3992cf1\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\2d1ed82757f90eea2c7735f21ea7379b\transformed\firebase-auth-23.0.0\AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5bd5ff64b574a29bed1066d5c2e84a6d\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\bdd11cf1ae757e100e046206886d3ffb\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\649cb30d843a7c62bb1a44c39d3a91a7\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\649cb30d843a7c62bb1a44c39d3a91a7\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0950add8bc0ababbfc2033d9e3992cf1\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0950add8bc0ababbfc2033d9e3992cf1\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0950add8bc0ababbfc2033d9e3992cf1\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1c85e116c0e46eb295d972ad74f8155f\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bbc10ad60265746d12ebb1d6ba1873d\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bbc10ad60265746d12ebb1d6ba1873d\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bbc10ad60265746d12ebb1d6ba1873d\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\1bbc10ad60265746d12ebb1d6ba1873d\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0b5c7facd21ccadc870d6a1585d82254\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0b5c7facd21ccadc870d6a1585d82254\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\86324f2e63c5998e6764b3edf4ed037e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\86324f2e63c5998e6764b3edf4ed037e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\5971fc4b0d4e87b091269649f41b10fd\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0b5c7facd21ccadc870d6a1585d82254\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0b5c7facd21ccadc870d6a1585d82254\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\0b5c7facd21ccadc870d6a1585d82254\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f1f43728f08615a84cc718fd2ccee461\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f1f43728f08615a84cc718fd2ccee461\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\f1f43728f08615a84cc718fd2ccee461\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Msi Stealth 15M\.gradle\caches\transforms-3\e8d4905f82cb3c55af44dcf483c1ef9f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
