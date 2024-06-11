@@ -28,7 +28,7 @@ import java.util.Map;
 public class singUp extends AppCompatActivity {
     private TextView txtFullName, txtUserName, txtEmail, txtPhone, txtPass;
     private Button btnBack, btnEnter;
-    String url = "http://192.168.56.1/mobile/CarRent/singUp.php";
+    String url = "http://192.168.88.3/mobile/CarRent/singUp.php";
     RequestQueue queue;
 
     @Override

@@ -17,8 +17,8 @@ id btn_forget
 id btn_login
 id btn_newaccount
 id button
-id button_confirm
 id button_id
+id button_submit
 id buttonrest
 id carDetailsTextView
 id carImageView
@@ -26,12 +26,10 @@ id carNameTextView
 id carPriceTextView
 id cardView
 id cars_recycle_view
-id checkBox_terms
-id editText_email
-id editText_full_name
-id editText_phone
+id editText_card_number
+id editText_cardholder_name
+id editText_cvv
 id editText_pickup_date
-id editText_pickup_location
 id editText_return_date
 id email
 id emailtext
@@ -49,7 +47,6 @@ id passwordLayout
 id phone
 id resetPassword
 id seatsTextView
-id spinner_payment_method
 id spnMenu
 id textView
 id textView2

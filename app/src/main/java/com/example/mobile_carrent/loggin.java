@@ -32,7 +32,7 @@ import java.util.Map;
 public class loggin extends AppCompatActivity {
     Button btn_newAccount, btn_forget, btn_login;
     EditText txtUserName, txtPassword;
-    String url = "http://192.168.56.1/mobile/CarRent/log_in.php"; // Ensure the URL is correct
+    String url = "http://192.168.88.3/mobile/CarRent/log_in.php"; // Ensure the URL is correct
     RequestQueue queue;
 
     @Override
@@ -107,7 +107,12 @@ public class loggin extends AppCompatActivity {
 
                             if ('1'==(arg[1].charAt(0))) {
                                 Intent intent = new Intent(loggin.this, RecyclerView.class);
+                                intent.putExtra("userName", txtUserName.getText().toString());
                                 startActivity(intent);
+                            }else
+                            {
+                                Toast.makeText(loggin.this, "invalid username or password", Toast.LENGTH_LONG).show();
+
                             }
                         } catch (Exception e) {
                             e.printStackTrace();

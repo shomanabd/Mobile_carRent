@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-main-41:\\layout\\recycle_view_row.xml"
     },
     {
-        "merged": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-debug-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-debug-39:\\drawable_car.png.flat",
         "source": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-main-41:\\drawable\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-debug-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-debug-39:\\layout_activity_sing_up.xml.flat",
@@ -80,10 +80,6 @@
         "source": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-main-41:\\layout\\activity_loggin.xml"
     },
     {
-        "merged": "com.example.mobile_carrent.app-debug-39:/layout_recycle_view_cars.xml.flat",
-        "source": "com.example.mobile_carrent.app-main-41:/layout/recycle_view_cars.xml"
-    },
-    {
         "merged": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-debug-39:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-main-41:\\drawable\\ic_launcher_background.xml"
     },
@@ -102,6 +98,10 @@
     {
         "merged": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-debug-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mobile_carrent.app-debug-39:/layout_activity_confirm_reservation.xml.flat",
+        "source": "com.example.mobile_carrent.app-main-41:/layout/activity_confirm_reservation.xml"
     },
     {
         "merged": "C:\\Users\\Msi Stealth 15M\\.gradle\\daemon\\8.4\\com.example.mobile_carrent.app-debug-39:\\layout_activity_forget_pass.xml.flat",
